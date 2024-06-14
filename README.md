@@ -1,5 +1,5 @@
 # Credit_card_fraud_detector
-- Credit card fraud detector is an fraud detector to credit cards using kaggle dataset creditcard.csv.
+- Credit card fraud detector is a fraud detector for credit cards using kaggle creditcard.csv dataset.
 ## Imports used
 - Pandas, Numpy, Sklearn and Imblearn.
 ## ML models used 
